@@ -1,3 +1,4 @@
-*.file
-*/temp/*
+.venv
+.vscode
+.git
 *.
